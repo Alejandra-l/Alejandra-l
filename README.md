@@ -5,7 +5,7 @@ class unciafidelis{
     this.name = "Alejandra"
     this.sex = "Female"
     this.hobbie = "On my free time I enjoy competitive gaming and folkor dance."
-    this.work = "Pre School Teacher"
+    this.work = "Preschool Teacher"
     this.githubStatus = "Beginner"
   }
 }
