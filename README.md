@@ -1,10 +1,16 @@
-- 👋 hello there, I’m @Alejandra-l
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hello there!
+```javascript
+class unciafidelis{
+  constructor(name, sex, hobbie, work, gitHubStatus, stacks){
+    this.name = "Alejandra"
+    this.sex = "Female"
+    this.hobbie = "On my free time I enjoy competitive gaming and folkor dance."
+    this.work = "Pre School Teacher"
+    this.githubStatus = "Beginner"
+  }
+}
+...
+
 
 <!---
 Alejandra-l/Alejandra-l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
