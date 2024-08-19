@@ -4,7 +4,7 @@ class unciafidelis{
   constructor(name, sex, hobbie, work, gitHubStatus){
     this.name = "Alejandra"
     this.sex = "Female"
-    this.hobbie = "On my free time I enjoy competitive gaming and folkor dance."
+    this.hobbie = "On my free time I enjoy competitive gaming and reading."
     this.work = "Preschool Teacher"
     this.githubStatus = "Beginner"
   }
