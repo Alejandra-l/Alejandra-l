@@ -1,7 +1,7 @@
 ### Hello there!
 ```javascript
 class unciafidelis{
-  constructor(name, sex, hobbie, work, gitHubStatus, stacks){
+  constructor(name, sex, hobbie, work, gitHubStatus){
     this.name = "Alejandra"
     this.sex = "Female"
     this.hobbie = "On my free time I enjoy competitive gaming and folkor dance."
